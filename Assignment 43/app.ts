@@ -22,4 +22,4 @@ function make_great(magicians : string[]){
 
 let greatMagicians = make_great(magicianNames.slice());
 show_magicians(magicianNames);
-show_magicians(magicianNames);
+show_magicians(greatMagicians);
