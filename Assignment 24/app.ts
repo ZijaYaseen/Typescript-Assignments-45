@@ -50,8 +50,8 @@ console.log(nmb >= 11); //false
 /* LOGICAL OPERATORS:  
 Logical operators are used to combine multiple conditions in one.
 
-&& : when all conditions are true so it shows true but if any one condition is wrong it shows false.
-|| : when any one condition is true in all conditions , it shows true.
+&& : when any one condition is true in all conditions , it shows true.
+|| : when all conditions are true so it shows true but if any one condition is wrong it shows false.
 */
 
 let b = 4;
